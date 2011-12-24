@@ -1,0 +1,1 @@
+Remove usage of sum function in cost function (thanks Jeroen Willems)
