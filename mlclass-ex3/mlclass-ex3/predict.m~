@@ -24,20 +24,19 @@ p = zeros(size(X, 1), 1);
 % Add ones to the X data matrix
 X = [ones(m, 1) X];
 
-level1 = sigmoid(X*Theta1');
-level1 = [ones(m, 1) level1];
-
-out = sigmoid(level1*Theta2');
+level1 = X*Theta1';
 
 
-[junk, p] = max (out, [], 2);
+% [junk, p] = max (X*Theta1', [], 2);
 
 % size(X)
 % size(Theta1')
-%size(Theta2')
-%size(level1)
+size(Theta2)
+size(level1)
 
-%out;
+X(1:5,1:10)
+
+
 
 % =========================================================================
 

@@ -87,10 +87,7 @@ for i = 1:m
 end
 
 % display the bad predictions
-a = X(find(pred ~= y),:);
-displayData(a(1:100, :));
-b = pred(find(pred ~= y),:)
-size(b)
-reshape(b(1:100),10,10)
+displayData(X([pred ~= y]));
+
 
 
