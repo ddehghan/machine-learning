@@ -30,11 +30,15 @@ X = [ones(m, 1) X];
 %       for each row.
 %       
 
+%p = sigmoid(X*all_theta');
 
+[junk, p] = max (X*all_theta', [], 2);
 
+%predict_num = max(p, [], 2)
+    
+%size(p)
 
-
-
+%p
 
 % =========================================================================
 
