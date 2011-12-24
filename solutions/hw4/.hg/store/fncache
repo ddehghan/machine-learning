@@ -1,0 +1,16 @@
+data/ex4.m.i
+data/ex4data1.mat.i
+data/randInitializeWeights.m.i
+data/ex4weights.mat.i
+data/submit.m.i
+data/submitWeb.m.i
+data/nnCostFunction.m.i
+data/ex4data1.mat.d
+data/checkNNGradients.m.i
+data/displayData.m.i
+data/sigmoidGradient.m.i
+data/fmincg.m.i
+data/computeNumericalGradient.m.i
+data/debugInitializeWeights.m.i
+data/sigmoid.m.i
+data/predict.m.i

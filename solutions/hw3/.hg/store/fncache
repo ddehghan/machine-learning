@@ -1,0 +1,14 @@
+data/ex3_nn.m.i
+data/sigmoid.m.i
+data/submit.m.i
+data/submitWeb.m.i
+data/ex3weights.mat.i
+data/lrCostFunction.m.i
+data/ex3.m.i
+data/oneVsAll.m.i
+data/fmincg.m.i
+data/displayData.m.i
+data/ex3data1.mat.d
+data/ex3data1.mat.i
+data/predictOneVsAll.m.i
+data/predict.m.i

@@ -1,0 +1,2 @@
+Change step size in ex1_multi.m and renormalise new inputs for gradientDescentx
+

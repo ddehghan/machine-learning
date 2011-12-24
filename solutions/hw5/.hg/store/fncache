@@ -1,0 +1,12 @@
+data/ex5.m.i
+data/ex5data1.mat.i
+data/polyFeatures.m.i
+data/submitWeb.m.i
+data/learningCurve.m.i
+data/validationCurve.m.i
+data/submit.m.i
+data/plotFit.m.i
+data/trainLinearReg.m.i
+data/featureNormalize.m.i
+data/fmincg.m.i
+data/linearRegCostFunction.m.i
